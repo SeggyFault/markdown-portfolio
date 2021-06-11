@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#### My favourite types of cats:
+* Cats with make-up.
+* Cross-eyed cats.
+* Ugly cats.
